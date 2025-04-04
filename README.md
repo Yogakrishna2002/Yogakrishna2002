@@ -5,11 +5,15 @@ Hi, I'm Yogakrishna
 🔧 Skills & Tech Stack
 
 ✅ Cloud: AWS (EC2, Lambda, IAM, S3, CloudWatch, etc.)
+
 ✅ DevOps: CI/CD, Jenkins, Docker, GitHub Actions
+
 ✅ Scripting & Automation: Bash, Python, AWS CLI
+
 ✅ Networking & Security: Linux, IAM Policies, System Administration
 
 📬 Let's Connect!
+
 📩 Email: krishnayoga2002@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/yogakrishna-n-a984a4247
