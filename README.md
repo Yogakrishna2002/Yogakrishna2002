@@ -74,6 +74,7 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/></a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/></a>
   <a href="https://getfedora.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="Fedora" width="40" height="40"/></a>
+  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" alt="Cisco Packet Tracer" width="40" height="40"/></a>
 </p>
 
 ---
