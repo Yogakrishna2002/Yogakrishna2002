@@ -19,6 +19,21 @@
 
 ---
 
+
+### 📚 Research & Presentations
+
+- 📝 **“Leveraging AWS Lambda for Real-Time Monitoring: Unlocking Efficiency and Agility”**  
+  📅 *Published: October 2024*  
+  🔗 [View Paper ](https://zenodo.org/records/13882400)
+
+- 📝 **“M-VOICE: Impact of Voice Assistance in Electronic Mail System”**  
+  📅 *Published: July 2023*  
+  🔗 [View Paper ](https://www.researchgate.net/publication/372743686_M-VOICE_IMPACT_OF_VOICE_ASSISTANCE_IN_ELECTRONIC_MAIL_SYSTEM)  
+
+
+---
+
+
 ### 🔗 Connect with Me
 
 <p align="left">
