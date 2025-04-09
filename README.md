@@ -47,8 +47,7 @@
 </p>
 
 📧 Email: **krishnayoga2002@gmail.com**  
-🌐 Portfolio: [GitHub Projects](https://github.com/Yogakrishna2002)  
-📄 Experience: [LinkedIn Profile](https://www.linkedin.com/in/yogakrishna-n-a984a4247)
+📄 View My Experience on: [LinkedIn Profile](https://www.linkedin.com/in/yogakrishna-n-a984a4247)
 
 ---
 
