@@ -33,7 +33,7 @@
 
 - 📝 **“M-VOICE: Impact of Voice Assistance in Electronic Mail System”**  
   📅 *Published: July 2023*  
-  🔗 [View Paper ](https://www.researchgate.net/publication/372743686_M-VOICE_IMPACT_OF_VOICE_ASSISTANCE_IN_ELECTRONIC_MAIL_SYSTEM)  
+  🔗 [View Paper ](https://www.ijcrt.org/papers/IJCRT2307618.pdf)  
 
 
 ---
