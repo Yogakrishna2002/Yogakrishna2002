@@ -20,7 +20,11 @@
 
 ### 💡 About Me
 
-🔍 I’m passionate about building **automated, scalable infrastructure** and continuously exploring tools that power modern DevOps ecosystems.
+I am an **Infrastructure Intern** with hands-on experience in managing and supporting **Linux virtual machines** across **on-premise and hybrid cloud environments**.  
+My work includes **VM lifecycle operations, system administration, monitoring, backup, and basic security activities**.
+
+I have practical exposure to **AWS services**, **Linux administration**, **networking fundamentals**, and **DevOps tools** through internships and self-driven labs. I enjoy learning cloud technologies and continuously improving my skills to build **reliable and secure infrastructure**.
+.
 
 💼 I'm currently **looking for internship and entry-level opportunities** where I can grow as a fresher and contribute to real-world projects.
 
