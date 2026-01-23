@@ -73,7 +73,6 @@ I have practical exposure to **AWS services**, **Linux administration**, **netwo
   <a href="https://getfedora.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="Fedora" width="40" height="40"/></a>
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" alt="Cisco Packet Tracer" width="40" height="40"/></a>
   <p align="left">
-height="40"/></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
 </p>
