@@ -8,7 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogakrishna2002&theme=darkhub" alt="github trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yogakrishna2002" alt="github trophies" />
+  </a>
 </p>
 
 
