@@ -72,17 +72,27 @@ I have practical exposure to **AWS services**, **Linux administration**, **netwo
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/></a>
   <a href="https://getfedora.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="Fedora" width="40" height="40"/></a>
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" alt="Cisco Packet Tracer" width="40" height="40"/></a>
-  <a href="https://www.nutanix.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Nutanix_logo.svg" alt="Nutanix" width="40" height="40"/></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Jira_logo.svg" alt="Jira" width="40" height="40"/></a>
-  <a href="https://checkmk.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/6/6c/Checkmk_Logo.png" alt="Checkmk" width="40" height="40"/></a>
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/images/prometheus_logo_grey.svg" alt="Prometheus" width="40" height="40"/></a>
-  <a href="https://wazuh.com/" target="_blank" rel="noreferrer"><img src="https://wazuh.com/assets/images/logo.svg" alt="Wazuh" width="40" height="40"/></a>
-  <a href="https://www.clamav.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/ClamAV_logo.svg" alt="ClamAV" width="40" height="40"/></a>
-  <a href="https://www.ibm.com/docs/en/spectrum-protect/8.1.12?topic=management-patch" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="Patch Management" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Backup" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Backup_icon.svg" alt="Backup & Recovery" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Cloud_computing" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Hybrid_cloud_icon.svg" alt="Hybrid Cloud" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Observability_(software_engineering)" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Observability_icon.svg" alt="Observability" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Infrastructure_management" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IT_infrastructure_icon.svg" alt="Infrastructure Management" width="40" height="40"/></a>
+  <p align="left">
+  <a href="https://www.nutanix.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nutanix/nutanix-original.svg" alt="Nutanix" width="40" height="40"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
+  </a>
+  <a href="https://checkmk.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Yogakrishna2002/assets/main/logos/checkmk.png" alt="Checkmk" width="40" height="40"/>
+  </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
+  </a>
+  <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Yogakrishna2002/assets/main/logos/wazuh.png" alt="Wazuh" width="40" height="40"/>
+  </a>
+  <a href="https://www.clamav.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Yogakrishna2002/assets/main/logos/clamav.png" alt="ClamAV" width="40" height="40"/>
+  </a>
+</p>
+
 </p>
 
 ---
