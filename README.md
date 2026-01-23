@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Yogakrishna N</h1>
-<h3 align="center">Infrastructure Intern | Linux & Cloud Operations | AWS & Hybrid Infrastructure</h3>|
+<h3 align="center">Infrastructure Intern | Linux & Cloud Operations | AWS & Hybrid Infrastructure</h3>
 
 <p align="center">
   💻 Linux Systems & VM Management | ☁️ Cloud (AWS) | 🔧 Infrastructure Operations  
