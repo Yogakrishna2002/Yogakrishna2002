@@ -86,6 +86,8 @@ Automation — working towards scalable, AI-augmented infrastructure systems.
   <p align="left">
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
+    <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+<img src="https://avatars.githubusercontent.com/u/45487711" alt="n8n" width="40" height="40"/></a>
 </p>
 
 ---
