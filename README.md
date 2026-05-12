@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Yogakrishna N</h1>
 <h3 align="center">Linux Systems & Cloud Operations Intern | AWS & Hybrid Infrastructure
-DevOps | AI Ops & Agentic Automation | n8n Workflow Orchestration</h3>
+| DevOps | AI Ops & Agentic Automation | n8n Workflow Orchestration</h3>
 
 <p align="center">
   💻 Linux Systems & VM Management | ☁️ Cloud (AWS) | 🔧 Infrastructure Operations  
