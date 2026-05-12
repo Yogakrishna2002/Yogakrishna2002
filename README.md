@@ -3,12 +3,12 @@
 | DevOps | AI Ops & Agentic Automation | n8n Workflow Orchestration</h3>
 
 <p align="center">
-  💻 Linux Systems & VM Management | ☁️ Cloud (AWS) | 🔧 Infrastructure Operations  
+  💻 Linux Systems Administration | ☁️ AWS & Hybrid Infrastructure | 🔧 DevOps & Cloud Operations
   <br/>
-  📍 Chennai, India | 🔎 Open to Entry-Level & Fresher Opportunities
+  🤖 AI Ops & Agentic Automation | ⚙️ n8n Workflow Orchestration
+  <br/>
+  📍 Chennai, India | 🔎 Open to Entry-Level Opportunities
 </p>
-
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Working on Laptop Gif">
