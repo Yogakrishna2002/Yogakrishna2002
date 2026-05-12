@@ -18,14 +18,27 @@
 
 ### 💡 About Me
 
-I am an **Infrastructure Intern** with hands-on experience in managing and supporting **Linux virtual machines** across **on-premise and hybrid cloud environments**.  
-My work includes **VM lifecycle operations, system administration, monitoring, backup, and basic security activities**.
+Infrastructure Intern with hands-on experience in Linux systems
+administration, VM lifecycle management, and hybrid cloud operations
+across on-premise and AWS environments — covering provisioning,
+monitoring, backup, and security hardening.
 
-I have practical exposure to **AWS services**, **Linux administration**, **networking fundamentals**, and **DevOps tools** through internships and self-driven labs. I enjoy learning cloud technologies and continuously improving my skills to build **reliable and secure infrastructure**.
-.
+Actively building in AI Ops and Agentic Automation, designing
+intelligent event-driven workflows using n8n to automate operational
+tasks and bring AI-driven decision-making into infrastructure operations.
 
-💼 I'm currently **looking for internship and entry-level opportunities** where I can grow as a fresher and contribute to real-world projects.
+Passionate about the convergence of DevOps, Cloud, and Intelligent
+Automation — working towards scalable, AI-augmented infrastructure systems.
 
+🛠️ Tech Stack
+💻 Linux Systems Administration
+☁️ Amazon Web Services (AWS)
+🔧 Infrastructure & Cloud Operations
+🤖 AI Ops & Agentic Automation
+⚙️ n8n Workflow Orchestration
+
+💼 Open to internship and entry-level roles in
+Cloud | DevOps | AI Ops | Infrastructure
 ---
 
 
