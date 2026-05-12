@@ -30,15 +30,15 @@ tasks and bring AI-driven decision-making into infrastructure operations.
 Passionate about the convergence of DevOps, Cloud, and Intelligent
 Automation — working towards scalable, AI-augmented infrastructure systems.
 
-🛠️ Tech Stack
-💻 Linux Systems Administration
-☁️ Amazon Web Services (AWS)
-🔧 Infrastructure & Cloud Operations
-🤖 AI Ops & Agentic Automation
-⚙️ n8n Workflow Orchestration
+### 🛠️ Tech Stack
+- 💻 Linux Systems Administration
+- ☁️ Amazon Web Services (AWS)
+- 🔧 Infrastructure & Cloud Operations
+- 🤖 AI Ops & Agentic Automation
+- ⚙️ n8n Workflow Orchestration
 
 💼 Open to internship and entry-level roles in
-Cloud | DevOps | AI Ops | Infrastructure
+| Cloud | DevOps | AI Ops | Infrastructure |
 ---
 
 
